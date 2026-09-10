@@ -1,16 +1,16 @@
-## Hi there 👋
+# Jorge Gonzalez
 
-<!--
-**JerzJorge/JerzJorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lake Mary, FL · Building AI systems and travel tools
 
-Here are some ideas to get you started:
+## Stack
+- Grok / SuperGrok + agents
+- Notion, Slack, ElevenLabs, Lovable
+- TypeScript, Vite, Supabase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repos
+- [ai-exec-orchestrator](https://github.com/JerzJorge/ai-exec-orchestrator) — AI exec orchestration
+- [trillion-voice-agent](https://github.com/JerzJorge/trillion-voice-agent) — voice agent
+- [calendly-elevenlabs-tiktok](https://github.com/JerzJorge/calendly-elevenlabs-tiktok) — Calendly + ElevenLabs + TikTok
+- [cruise-match-whisperer](https://github.com/JerzJorge/cruise-match-whisperer) — cruise matching
+
+X: [@Jerz_Jorge](https://x.com/Jerz_Jorge)
